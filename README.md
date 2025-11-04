@@ -2,7 +2,7 @@
 
 **`Software Developer | Developer/Youtube Creator/Student`**
 
-A Third-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
+A third-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
 
 Portfolio - https://pythonwithsean.netlify.app/
 
