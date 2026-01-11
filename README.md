@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pythonwithsean
 
-**`Software Developer | Developer/Youtube Creator/Student`**
+**`Product Engineer | Founder`**
 
 A third-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
 
