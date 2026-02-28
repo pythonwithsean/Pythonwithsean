@@ -2,11 +2,7 @@
 
 **`Software Engineer | Founder`**
 
-A third-year scholar and self-taught software engineer with strong skills in data structures, algorithms, and building interfaces and backend services. Passionate about Golang, Tech.
-
-Portfolio - https://pythonwithsean.netlify.app/
-
-BetterDev - https://pythonwithsean.github.io/BetterDev/
+Grinding to be the best !
 
 ---
 
