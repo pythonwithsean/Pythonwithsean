@@ -2,8 +2,7 @@
 
 **`Software Engineer | Founder`**
 
-Grinding to be the best !
-
+Grinding to be the best 
 ---
 
 ### 🧰 Languages and Tools
