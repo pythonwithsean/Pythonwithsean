@@ -1,12 +1,7 @@
 # 👋 Hi, I'm Pythonwithsean
 
-**`Software Engineer | Founder`**
-
-Grinding to be the best 
+**`Software Engineer`**
 ---
-
-### 🧰 Languages and Tools
-
 <p>
 <strong>Programming Languages:</strong> Python, JavaScript,
 TypeScript, Java, C++, SQL, HTML, CSS
