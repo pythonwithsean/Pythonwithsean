@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pythonwithsean
 
 **`Software Engineer`**
----
+
 <p>
 <strong>Programming Languages:</strong> Python, JavaScript,
 TypeScript, Java, C++, SQL, HTML, CSS
