@@ -1,4 +1,4 @@
-Hey, I'm Sean Iseosa Idisi 👋
+# Hey, I'm Sean Iseosa Idisi 👋
 
 Software Engineer at **Axon**. I work with Go, Python, and distributed systems.
 
