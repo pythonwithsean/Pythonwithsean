@@ -1,6 +1,6 @@
 # Hey, I'm Sean Iseosa Idisi 👋
 
-Software Engineer at **Axon**. I work with Go, Python, C, Rust and distributed systems.
+Software Engineer at **Axon**. I work with Go, Python and distributed systems.
 
 Interested in database internals, concurrency, distributed systems, and networking.
 
